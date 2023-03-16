@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "name": "Sport",
+      "id": 1
+    },
+    {
+      "name": "Cuisine",
+      "id": 2
+    },
+    {
+      "name": "Art",
+      "id": 3
+    }
+  ],
+  "columns": [
+    {
+      "id": 1,
+      "title": "A apprendre"
+    },
+    {
+      "id": 2,
+      "title": "Je sais un peu"
+    },
+    {
+      "id": 3,
+      "title": "Je sais bien"
+    },
+    {
+      "id": 4,
+      "title": "Je sais parfaitement"
+    }
+  ],
+  "cards": [
+    {
+      "question": "Quel est le pays organisateur des prochains Jeux Olympiques d'été ?",
+      "answer": "Les prochains Jeux Olympiques d'été se dérouleront à Paris, en France.",
+      "column": 1,
+      "category": 1,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "question": "Quel est le nom de l'art martial japonais qui signifie \"la voie de la main vide\" ?",
+      "answer": "Le karaté est un art martial japonais qui signifie \"la voie de la main vide\".",
+      "column": 2,
+      "category": 1
+    },
+    {
+      "question": "Quel est le principal ingrédient pour faire du pain ?",
+      "answer": "La farine est le principal ingrédient pour faire du pain.",
+      "column": 3,
+      "category": 2,
+      "id": 3
+    },
+    {
+      "question": "Comment appelle-t-on les pâtes italiennes en forme de petits tubes ?",
+      "answer": "Les pâtes italiennes en forme de petits tubes sont appelées des macaronis.",
+      "column": 4,
+      "category": 2,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "question": "Qui a peint la célèbre toile \"La Joconde\" ?",
+      "answer": "La célèbre toile \"La Joconde\" a été peinte par Leonardo da Vinci.",
+      "column": 3,
+      "category": 3
+    },
+    {
+      "question": "Quel est le nom de la technique de gravure sur cuivre inventée par Rembrandt ?",
+      "answer": "Le nom de la technique de gravure sur cuivre inventée par Rembrandt est l'eau-forte.",
+      "column": 2,
+      "category": 3,
+      "id": 6
+    }
+  ]
+}
