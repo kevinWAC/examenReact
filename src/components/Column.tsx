@@ -43,10 +43,6 @@ const [answer, setAnswer] = useState<string>("")
         }
    }
 
-   const handleUpdateCard = () => {
-    handleReload()
-   }
-
     return(
         <div className=" row text-center w-25 shadow-sm p-3 mb-5 bg-white rounded" style={{height:"100%"}}>
         <div className="text-uppercase fw-bold">{title}</div>

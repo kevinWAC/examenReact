@@ -14,8 +14,6 @@ const Category = ({id, name, handleDeleteCategory}: CategoryProps) => {
             <button className="btn btn-danger" onClick={() => handleDeleteCategory(id)}>x</button>
         </div> 
     )
-
-
 }
 
 export default Category;
